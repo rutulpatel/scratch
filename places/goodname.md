@@ -1,2 +1,2 @@
-This is a goodname markdown file.
+This is a badname markdown file.
 I really dont know what's this for as of now....
